@@ -1,0 +1,17 @@
+{
+  "short_name": "HELPAI",
+  "name": "Help.AI",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "id": "HEAI",
+  "description": "It is a free to use AI app that can answer to your questions."
+}
